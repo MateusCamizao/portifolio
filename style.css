@@ -26,7 +26,7 @@ strong {
 :root {
   --header-height: 3.5rem;
   /*COLORS*/
-  --hue: 1024;
+  --hue: 189;
   /* HSL color mode*/
   --base-color: hsl(var(--hue) 36% 57%);
   --base-color-second: hsl(var(--hue) 65% 88%);
